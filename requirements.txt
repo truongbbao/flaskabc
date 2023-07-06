@@ -1,0 +1,5 @@
+ultralyticsplus==0.0.23
+ultralytics==8.0.21
+flask
+flask-cors
+opencv-python>=4.1.2
